@@ -1,1 +1,3 @@
 Lista de alumnos. Escribe tu nombre completo y usuario GITHUB
+Giovanni Ruben Espinoza Martinez
+GioEM1
